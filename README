@@ -1,0 +1,37 @@
+# PORTFOLIO
+
+This is a simple web page designed to tell about myself 
+
+## Getting Started 
+
+## Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Browser or a Text Edidtor 
+```
+## Technologies Used
+-HTML and css
+-Atom,VSCode,subline text Brackets any tex Edidtor
+-Terminal
+-Git 
+
+setup instalations requirements
+ -Clone respository
+ -cd into directories `cd Portfolio`
+ -Open index.html on the Browser
+
+
+### Development
+
+ To enhance an exixsting module 
+ -Create a new branch 
+ -Make an appropriate changes in the files
+ -Add changes to reflect the changes made  
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md]
+(LICENSE.md) file for details
